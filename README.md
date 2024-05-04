@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## What you will learn
+
+- Latest Next.js 13 features
+- Next.js App Router
+- Next.js Server Actions
+- Client & Server Components
+- TypeScript (Beginner & Intermediate)
+- Tailwind CSS
+- Context API
+- Advanced Animations with Framer Motion
+- React.Email & Resend
+- Custom React hooks
+- Fresh, modern UI design
+- Light & Dark mode
+- Responsive website
 
 ## Getting Started
 
