@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 "use client";
 import { UseActiveSectionContext } from "@/contect/active-section-context";
 import { useSectionInView } from "@/lib/hooks";
