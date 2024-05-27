@@ -9,7 +9,7 @@ import { BsArrowRight, BsLinkedin } from "react-icons/bs";
 import { FaGithubSquare } from "react-icons/fa";
 import { HiDownload } from "react-icons/hi";
 
-export default function intro() {
+export default function Intro() {
   const { ref } = useSectionInView("Home", 0.5);
 
   const { setActiveSection, setTimeOfLastClick } = UseActiveSectionContext();
