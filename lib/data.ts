@@ -37,16 +37,14 @@ export const experiencesData = [
   {
     title: "IT officer",
     location: "Online",
-    description:
-      " Worked for Mutual Trusts - IT personnel .",
+    description: " Worked for Mutual Trusts - IT personnel .",
     icon: React.createElement(LuGraduationCap),
     date: "2018-2019",
   },
   {
     title: "Front-End Developer",
     location: "Festac",
-    description:
-      "I worked at Total Engineering - Front-End Developer .",
+    description: "I worked at Total Engineering - Front-End Developer .",
     icon: React.createElement(CgWorkAlt),
     date: "2019 - 2021",
   },
@@ -97,11 +95,10 @@ export const skillsData = [
   "Prisma",
   "MongoDB",
   "Redux",
-  "GraphQL",
-  "Apollo",
+
   "Express",
   "PostgreSQL",
   "Shopify",
-  "Django",
+
   "Framer Motion",
 ] as const;
